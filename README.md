@@ -45,7 +45,7 @@ which you can get at https://infura.io/
 
 ## How to run
 
-To run this contract open your terminal and write git clone (url of this repo) this will copy the repo to your computer.
+To run this contract open your terminal and write git clone https://github.com/Kuly14/Dao_version2.git this will copy the repo to your computer.
 
 Now write brownie run scripts/deploy.py
 
